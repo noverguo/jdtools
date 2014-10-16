@@ -24,6 +24,11 @@
 			<exclude name="**/test/**.java" />
             <classpath refid="libraries.path"/>
         </javac>
+		<copy todir="${class.dir}">
+			<fileset dir="${source.dir}">
+				<exclude name="**/*.java"/>
+			</fileset>
+		</copy>
     </target>
 
     <target name="jar" depends="compile">
