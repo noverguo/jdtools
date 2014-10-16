@@ -10,6 +10,6 @@ dex2jar contains 4 compment
 Other project will be added in subsequent.
 
 
-this tools has used so lib:
+this tools has used some lib:
   - [asm](http://asm.ow2.org/) lib to edit the bytecode. 
   - [gson](http://code.google.com/p/google-gson/) lib to operate json.
