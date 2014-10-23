@@ -23,7 +23,7 @@ if you just want to quickly use this tool or use the newest feature, please visi
 
 jdtools包含了多个组件
 
-- [merger](https://github.com/noverguo/jdtools/tree/master/merger) 是一个把多个方法合并成一个的工具，因而可以用来突破adnroid dex方法数量的65K(65536)的限制，同时也加大了分析的难度。
+- [merger](https://github.com/noverguo/jdtools/tree/master/merger) 是一个把多个方法合并成一个的工具，因而可以用来缓解adnroid dex方法数量的65K(65536)的限制，同时也加大了分析的难度。
 
 其它组件会后续不断地更新。
 
