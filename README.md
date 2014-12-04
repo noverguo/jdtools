@@ -6,7 +6,7 @@ Toolkit for confuse the .class or .dex files, making it difficult to read for cr
 jdtools contains two compment
 
 - [merger](https://github.com/noverguo/jdtools/tree/master/merger) is a tool to combine multiple methods into one, so that to ease restrictions android 65k method of quantity, and increasing the difficulty of analysis.    
-- [merger](https://github.com/noverguo/jdtools/tree/master/merger) this tool will added in subsequent.
+- [jc](https://github.com/noverguo/jdtools/tree/master/merger) this tool will added in subsequent.
 
 this tools has used some lib:
   - [asm](http://asm.ow2.org/) lib to edit the bytecode. 
@@ -22,7 +22,7 @@ if you just want to quickly use this tool or use the newest feature, please visi
 jdtools包含了2个组件
 
 - [merger](https://github.com/noverguo/jdtools/tree/master/merger) 是一个把多个方法合并成一个的工具，因而可以用来缓解adnroid dex方法数量的65K(65536)的限制，同时也加大了分析的难度。
-- [merger](https://github.com/noverguo/jdtools/tree/jc)
+- [jc](https://github.com/noverguo/jdtools/tree/jc)
 此版本会在后续更新。
 
 
