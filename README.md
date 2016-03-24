@@ -30,6 +30,4 @@ jdtools包含了2个组件
   - [gson](http://code.google.com/p/google-gson/) 一个操作json的库
   - [dex2jar](http://code.google.com/p/dex2jar/) 一个用于jar和dex之前相互转换的工具
 
-如果你只是希望快速地试用这个工具或者是能够用于最新的功能，那么请访问
-[jdtools website](http://hanjiewu.cs0309.3g.qq.com/webapp_scan/security_lab/jar/)
 
