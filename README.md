@@ -1,4 +1,4 @@
-jdtools(jar or dex tools)
+jdtools(jar or dex tools)(由于工作原因，停止更新)
 =======
 
 Toolkit for confuse the .class or .dex files, making it difficult to read for cracker, and so on...
