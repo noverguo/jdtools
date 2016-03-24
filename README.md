@@ -13,8 +13,6 @@ this tools has used some lib:
   - [gson](http://code.google.com/p/google-gson/) lib to operate json.
   - [dex2jar](http://code.google.com/p/dex2jar/) tools to assembly jar to dex or disassembling dex to jar.
 
-if you just want to quickly use this tool or use the newest feature, please visit the
-[jdtools website](http://hanjiewu.cs0309.3g.qq.com/webapp_scan/security_lab/jar/)
 
 =======
 一个用于操作.class或.dex文件的工具集，让破解的人更加难以阅读等等，请留意后续更新。
